@@ -1,0 +1,1 @@
+export const selectNavCurrentTab = (state: any) => state?.navegator?.currentTab

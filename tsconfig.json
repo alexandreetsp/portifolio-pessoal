@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/store/root-reducer.js", "src/app/store/navReducer/nav.types.js", "src/app/store/navReducer/nav.types.js", "src/app/store/root-reducer.js", "src/app/store/navReducer/nav.action.js", "src/app/store/navReducer/nav.types.js", "src/app/store/navReducer/nav.selector.j", "src/app/store/navReducer/nav.reducer.js", "src/app/store/store.js", "src/app/store/root-reducer.js"],
   "exclude": ["node_modules"]
 }
